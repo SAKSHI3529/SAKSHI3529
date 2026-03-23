@@ -1,5 +1,4 @@
 
-## 👋 Hi, I'm Sakshi
 
 
   
@@ -18,6 +17,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Sakshi 👋
+
+🚀 Full Stack Developer | Android Developer | UI/UX Enthusiast  
+🎯 Focused on building scalable web apps & clean user experiences  
+
+
+
+- 
 # 💫 About Me:
 🔭 I’m currently working on  <br>Building full-stack web apps using Java, React, MongoDB, and Spring Boot.<br><br>👯 I’m looking to collaborate on  <br>Interesting full-stack or open-source projects where I can learn and contribute.<br><br>🤝 I’m looking for help with  <br>Improving backend design, performance optimization, and deployment.<br><br>🌱 I’m currently learning  <br>Advanced React, API optimization, and UI/UX design concepts.<br><br>💬 Ask me about  <br>Java, React, MongoDB, REST APIs, or my full-stack projects.<br><br>⚡ Fun fact  <br>I enjoy breaking down complex problems and turning them into simple solutions.<br>
 
