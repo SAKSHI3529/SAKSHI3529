@@ -18,63 +18,123 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Sakshi 👋
+# Hi 👋, I'm Sakshi Kumbhar
 
-🚀 Software Developer | Java & Spring Boot | React Native | REST APIs  
-💡 Passionate about building scalable applications and clean user experiences  
+### Full Stack Developer | ReactJS • Node.js • Java • Spring Boot • SQL • AWS
+
+💻 Full Stack Developer with experience building web and mobile applications using ReactJS, Node.js, Java, REST APIs, MySQL, and MongoDB.
+
+🚀 Currently working at **VMV Tech Solutions** as a Full Stack Developer.
+
+🌱 Currently learning **Next.js, System Design, and AWS Cloud**.
+
+📍 Pune, India
+
+📫 Email: sakshi3529@gmail.com
+
+🔗 LinkedIn: https://linkedin.com/in/sakshi-kumbhar2709
 
 ---
 
 ## 💫 About Me
 
-🔭 Currently building  
-Full-stack applications using **Java, Spring Boot, React, and MongoDB**, along with mobile apps using **React Native**  
+## About Me
 
-💼 Experience  
-- Developed and deployed **live mobile applications** during internship  
-- Built an e-commerce app **"Aarambh"** using React Native  
-- Worked with **REST APIs, SQL, and backend integration**  
-
-🌱 Currently learning  
-- Backend system design & performance optimization  
-- Advanced React & API efficiency  
-- Cloud & deployment basics  
-
-👯 Looking to collaborate on  
-Full-stack, backend, or open-source projects  
-
-💬 Ask me about  
-Java, Spring Boot, REST APIs, React, MongoDB  
-
-⚡ Fun fact  
-I enjoy turning complex problems into simple, scalable solutions  
+- 💼 Full Stack Developer at VMV Tech Solutions
+- 🎓 MCA Student at Pimpri Chinchwad University
+- 💡 Passionate about scalable web applications and modern frontend development
+- 🔥 Interested in ReactJS, Node.js, Java, Spring Boot, and Cloud Technologies
+- 🌱 Currently learning Next.js, AWS, and System Design
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages:** Java, Python, C++, JavaScript  
-**Backend:** Spring Boot, REST APIs, Flask  
-**Frontend:** React, HTML, CSS  
-**Mobile:** React Native  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, GitHub, Postman, VS Code  
+| Category | Technologies |
+|----------|--------------|
+| Frontend | ReactJS, HTML5, CSS3, JavaScript, TypeScript |
+| Backend | Node.js, Spring Boot, REST APIs |
+| Mobile | React Native |
+| Database | MongoDB, MySQL |
+| Cloud | AWS |
+| Tools | Git, GitHub, Postman, VS Code |
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-🔹 **TrackMyWallet**  
-Backend-driven expense management system using Java & Spring Boot  
+## 🌱 MCare – NGO Management Website
+**Tech Stack:** ReactJS, JavaScript, HTML5, CSS3, REST APIs
 
-🔹 **Festora**  
-Full-stack event management platform with role-based access  
+A responsive and user-friendly website developed for an NGO to improve information accessibility and community engagement.
 
-🔹 **CareCrop**  
-AI-based plant disease detection system using Python  
+### Highlights
+- Developed reusable ReactJS components for a clean and maintainable frontend.
+- Integrated REST APIs for dynamic content management.
+- Designed responsive pages optimized for desktop, tablet, and mobile devices.
+- Collaborated with stakeholders to deliver features aligned with organizational requirements.
+- Focused on accessibility, performance, and modern UI design.
 
-🔹 **Aarambh (E-commerce App)**  
-React Native app for selling printed clothing products  
+
+
+---
+
+## 🎉 Festora – Cultural Event Management Platform
+**Tech Stack:** ReactJS, Python, MongoDB, REST APIs
+
+A full-stack event management platform that simplifies the organization of college cultural events through role-based workflows.
+
+### Highlights
+- Designed a complete event management system for administrators, coordinators, judges, and participants.
+- Implemented secure role-based authentication and authorization.
+- Developed REST APIs for event registration, scheduling, judging, and result publishing.
+- Integrated MongoDB for efficient data storage and management.
+- Built reusable ReactJS components to improve maintainability and user experience.
+
+
+---
+
+## 🛍️ Aarambh – E-Commerce Mobile Application
+**Tech Stack:** React Native, JavaScript, REST APIs, Tailwind CSS
+
+A mobile shopping application developed for selling printed clothing products with a modern and intuitive user interface.
+
+### Highlights
+- Developed responsive mobile screens using React Native.
+- Implemented product listing, search, cart, and checkout workflows.
+- Integrated REST APIs for real-time product and order management.
+- Optimized application performance and navigation for a seamless user experience.
+- Followed component-based architecture for scalable development.
+
+
+---
+
+## 🌿 CareCrop – Plant Disease Detection System
+**Tech Stack:** Python, Flask, Machine Learning, OpenCV
+
+An AI-powered web application that detects plant diseases from leaf images using machine learning techniques.
+
+### Highlights
+- Built a machine learning model for automated disease prediction.
+- Applied image preprocessing and feature extraction techniques to improve accuracy.
+- Developed Flask-based REST APIs for real-time prediction.
+- Optimized datasets and model performance through preprocessing and evaluation.
+- Designed a simple web interface for uploading images and viewing prediction results.
+
+
+
+---
+
+## 💰 TrackMyWallet – Expense Management System
+**Tech Stack:** Java, Spring Boot, ReactJS, MySQL
+
+A full-stack personal finance application for tracking income, expenses, and budgets.
+
+### Highlights
+- Developed secure REST APIs using Spring Boot.
+- Built responsive dashboards with ReactJS.
+- Implemented CRUD operations for income, expenses, and budget management.
+- Integrated MySQL for reliable data storage.
+- Designed a clean user interface for effective financial tracking.
+
 
 ---
 
@@ -93,14 +153,9 @@ React Native app for selling printed clothing products
 ![](https://nirzak-streak-stats.vercel.app/?user=SAKSHI3529&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKSHI3529&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SAKSHI3529&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SAKSHI3529&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SAKSHI3529&icon=0&color=0)](https://visitcount.itsvg.in)
