@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 💻 Full Stack Developer with experience building web and mobile applications using ReactJS, Node.js, Java, REST APIs, MySQL, and MongoDB.
 
-🚀 Currently working at **VMV Tech Solutions** as a Full Stack Developer.
+🚀 Worked at **VMV Tech Solutions** as a Full Stack Developer.
 
 🌱 Currently learning **Next.js, System Design, and AWS Cloud**.
 
