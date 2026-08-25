@@ -170,16 +170,7 @@ A responsive website developed to improve information accessibility and digital 
 
 ---
 
-# 🎯 2026 Goals
 
-* 🚀 Build production-ready full-stack applications
-* 🤖 Build practical GenAI/RAG projects
-* ☁️ Strengthen AWS and cloud development skills
-* 🏗️ Improve system design and DSA
-* 💼 Grow as a Software Engineer
-* 🌱 Contribute to meaningful open-source projects
-
----
 
 # 📊 GitHub Stats
 
