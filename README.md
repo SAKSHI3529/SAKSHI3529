@@ -77,6 +77,27 @@ I enjoy turning ideas into practical software — from responsive frontend inter
 
 # 🚀 Featured Projects
 
+### 🏥 Patient Management System
+
+**Java | Spring Boot | Kafka | JPA/Hibernate | Docker | Kubernetes | AWS**
+
+> Microservices-based healthcare platform designed around domain-driven service boundaries for patient records, appointments, and billing.
+
+**What I built**
+
+* 🔹 Domain-oriented Spring Boot microservices
+* 🔹 Kafka-based asynchronous event communication
+* 🔹 JPA/Hibernate persistence
+* 🔹 Dockerized services
+* 🔹 Kubernetes deployment and service scaling
+* 🔹 AWS-based cloud deployment
+* 🔹 Event-driven synchronization between services
+
+**Key Engineering Focus:**
+`Microservices` • `Event-Driven Architecture` • `Asynchronous Communication` • `Containerization` • `Kubernetes` • `Cloud Deployment`
+
+
+
 ## 💰 TrackMyWallet — Personal Finance Management
 
 **Java • Spring Boot • React.js • MongoDB • REST APIs**
