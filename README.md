@@ -12,6 +12,8 @@ I enjoy turning ideas into practical software — from responsive frontend inter
 🌱 Currently exploring **Generative AI, LLMs, RAG, AWS, System Design & Next.js**
 🇯🇵 Currently learning **Japanese — preparing for JLPT N5**
 
+**🌐PortFolio : https://port-folio-inky-seven.vercel.app/**
+
 ---
 
 ## 🚀 What I Do
